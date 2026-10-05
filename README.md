@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10UxvF1a3y7P5S/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ1MHV4YW1sZmdvOWc5dHFpdTF6eHN3NnR2ZXR5Z3FzNnJqbnV0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/internal_gif/giphy.gif" width="400" />
 </p>
 
 ## Olá, Bem Vindos ao meu perfil 👋
