@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, Bem Vindos ao meu perfil👋
 
-<!--
-**MarioReisNeto/MarioReisNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📖 Estudante de Sistemas de Informação
+* ☕ Java
+* 💻 HTML, CSS, JavaScript
+* 🎲 Banco de Dados
+##
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioReisNeto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioReisNeto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mario-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Mario-java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+  <div>
+  <a href = "mailto:marioreistexte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/10UxvF1a3y7P5S/giphy.gif" width="300" />
+</p>
+
