@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5b3J6ZXhwb3A5aWZ6cWwzdHlxbWR3aWk5cWpxZXRreHBzcjlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgEe2yKsALso1aD5C6/giphy.gif" width="300" />
-</p>
-
 ## Olá, Bem Vindos ao meu perfil 👋
 
 * 📖 Estudante de Sistemas de Informação
