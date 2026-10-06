@@ -24,14 +24,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-### 🎮 Jogo de Contribuições (Pac-Man)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioReisNeto/MarioReisNeto/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioReisNeto/MarioReisNeto/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarioReisNeto/MarioReisNeto/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
 ## Contato
 
 <div>
