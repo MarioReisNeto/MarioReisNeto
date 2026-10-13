@@ -12,7 +12,6 @@
 ## Estatísticas e Linguagens
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarioReisNeto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioReisNeto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias
 
